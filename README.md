@@ -24,6 +24,9 @@ https://github.com/uber/uReplicator
 * Как Uber масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день
 * How Uber scaled its Real Time Infrastructure to [Trillion events] per day
 
+# Сборка из исходников Spark, Hive, Hadoop, Zookeper, Mesos, BigData, Tensorflow... в Gentoo
+https://github.com/gridgentoo/gentoo-tensorflow-overlay
+
 uReplicator 
 ============
 [![Build Status](https://travis-ci.org/uber/uReplicator.svg?branch=master)](https://travis-ci.org/uber/uReplicator)
