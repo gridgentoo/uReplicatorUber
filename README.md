@@ -1,7 +1,7 @@
-# Сборка из исходников Spark, Hive, Hadoop, Zookeper, Mesos, BigData, Tensorflow... в Gentoo
+## Сборка из исходников Spark, Hive, Hadoop, Zookeper, Mesos, BigData, Tensorflow... в Gentoo
 https://github.com/gridgentoo/gentoo-tensorflow-overlay
 
-# Как Uber масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день используя Экосистему Hadoop & Spark
+## Как Uber масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день используя Экосистему Hadoop & Spark
 
 Как Uber Engineering проводит аудит Kafka
 
@@ -33,7 +33,7 @@ https://docs.google.com/document/d/1jxMeu3ctc5UD2MfaurShfi1BiNwtLeUvzkw2VEye3II/
 * Как Uber масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день
 * How Uber scaled its Real Time Infrastructure to [Trillion events] per day
 
-uReplicator 
+## uReplicator 
 ============
 [![Build Status](https://travis-ci.org/uber/uReplicator.svg?branch=master)](https://travis-ci.org/uber/uReplicator)
 
