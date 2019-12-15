@@ -79,7 +79,7 @@
 
   <properties>
     <jdk.version>1.8</jdk.version>
-    <scala.version>2.11.8</scala.version>
+    <scala.version>2.11.12</scala.version>
     <kafka.version>0.10.2.1</kafka.version>
     <kafka.scala.version>2.11</kafka.scala.version>
     <helix.version>0.6.8</helix.version>
